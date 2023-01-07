@@ -1,2 +1,12 @@
 # Yemek_Tarifleri_Sitem
  Created with asp.net web form and postgresql database
+ 
+ 
+This is a database management system's project task. It ıncludes different operations of database. Some examples of database concepts are:
+
+- All CRUD operations
+- Inner join
+- Procedures
+- Functions
+- Triggers
+- Date,Group by-Having etc.
