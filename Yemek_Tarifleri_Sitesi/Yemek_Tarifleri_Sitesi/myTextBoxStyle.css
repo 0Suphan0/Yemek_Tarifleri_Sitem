@@ -1,0 +1,31 @@
+﻿@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+
+.text1 {
+    font-family: 'Indie Flower', cursive;
+    font-color: blue;
+    font-size: 70px;
+}
+
+.simple-tb {
+    color: white;
+    width: 200px;
+    height: 35px;
+    border-radius: 5px;
+    transition-property: background-color,border-radius,width,height,color;
+    transition-duration: 0.215s;
+    transition-delay: 0.215s;
+    text-align: center;
+    border: none;
+    float: none;
+    border-bottom: 1px solid blue;
+    font-family: 'Raleway', sans-serif;
+    background-color: transparent;
+}
+
+.simple-tb:hover {
+    background-color: white;
+    border-radius: 15px;
+    color: black;
+    width: 250px;
+    height: 35px;
+}
